@@ -34,48 +34,49 @@ body {
 }
 
 .btn {
-    background-color: #f9f9f9;
-    border: none;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
     padding: 20px;
     font-size: 1.5em;
     cursor: pointer;
     transition: background-color 0.2s;
+    color: #000;
 }
 
 .btn:hover {
-    background-color: #ddd;
+    background-color: #e0e0e0;
 }
 
 .btn:active {
-    background-color: #ccc;
+    background-color: #d0d0d0;
 }
 
 .operator {
-    background-color: #f39c12;
-    color: white;
+    background-color: #666;
+    color: #fff;
 }
 
 .operator:hover {
-    background-color: #e67e22;
+    background-color: #555;
 }
 
 #equals {
     grid-column: span 2;
-    background-color: #2ecc71;
+    background-color: #333;
     color: white;
 }
 
 #equals:hover {
-    background-color: #27ae60;
+    background-color: #222;
 }
 
 #clear {
-    background-color: #e74c3c;
+    background-color: #666;
     color: white;
 }
 
 #clear:hover {
-    background-color: #c0392b;
+    background-color: #555;
 }
 
 /* Responsive adjustments */
