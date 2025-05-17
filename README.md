@@ -6,6 +6,8 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - User-friendly interface with buttons for numbers and operations.
+- Clear visual distinction for different types of keys using specific background colors (e.g., numbers, operators, special functions).
+- Enhanced calculator input screen for better readability and user experience.
 - Display area for showing input and results.
 - Responsive design for usability on desktop and mobile devices.
 - Error handling for invalid operations (e.g., division by zero).
